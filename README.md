@@ -26,6 +26,37 @@ Bu tarz bir site tasarımı yapmaya çalıştım.
 Bu projeyi bu oyunu sevenlerin bilgiler edinmesi için yaptım. Umarım projem beğenilir:)
 
 
+Yusuf Samet Parpül
+
+  ENGLİSH VERSİON
+
+  ----------------------------------------------------------------------------------------------------------------
+Project: Images and descriptions of all games released from 1997 to 2026 regarding the history of Grand Theft Auto (GTA).
+
+For example:
+
+Grand Theft Auto: Vice City
+
+Release Year: October 29, 2002
+Universe: GTA 3D UNIVERSE
+Story: Sonny Forelli was interested in business in Vice City, where business was very good in those days. He did not want to act faster than other families and get the biggest share of his business in Vice City. In order to achieve this goal, he wanted to cooperate with Tommy, who had just been released from prison. Tommy's massacre performance in Liberty City had not been forgotten. Tommy's business seen on the streets of Liberty has a bad structure. For this reason, Sonny sends Tommy to Vice City.
+
+Tommy starts working for Sonny. During a cut-off transaction, he is pressured by unidentified people. Tommy is one of the three people who escaped from there, but he lost Sonny's dollar money and savings.
+
+Sonny gives Tommy the opportunity to bring in money and goods. Tommy helped structure his organization with the help of his addict lawyer Ken Rosenberg and his brother's recently lost dealer Lance Vance. Tommy becomes a man of influence in Vice City in the future. Despite Sonny's time being saved, he still hasn't received his money and is constantly trying to pick up the phone. If Tommy gradually leads the way, Sonny wants to get paid for Tommy's work. Sonny collects his men to be sent to Vice City, but kills Tommy's dead. Sonny then approaches Tommy's partner Lance and the two come to an agreement.
+
+Sonny visits Tommy as he leaves for Vice City. He plans to pay off Sonny's debts with Tommy's counterfeit money. Tommy greets Sonny and his men at the door of his mansion. After a short conversation, Tommy tells Sonny that he is spending counterfeit money. Knowing this, Lance is alive and Tommy is sure that Sonny is the one who trapped him. Sonny attacks Tommy's mansion with his men to deceive him. A big conflict breaks out in the mansion. Tommy kills both Lance and Sonny. In this incident, the details of the Forelli series, which lost many of its members, are entered. This was a positive development for mafia families like the Sindacco family.
+
+Vercetti became the most powerful and richest crime leader in Vice City. Lance Vance and Sonny Forelli were killed. He entered the Forelli mafia processes. Tommy's fate later or how much his reign is debated.
+
+THE IN-GAME IMAGE WILL BE HERE
+
+I tried to design a site like this.
+I made this project to get information about those who love this game. I hope the project is liked :)
+
+Yusuf Samet Parpül
+
+
                            
 
 
